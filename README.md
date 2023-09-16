@@ -5,4 +5,4 @@
 ## Описание проектов:
 | Номер проекта    | Название проекта     | Описание | Используемые библиотеки/приложения |                                                  
 | :--------------- | :------------------- | :------- | :---------------------- |
-| 1                | [Cоздание дашборда для компании Bolid.Team](https://github.com/VeraNovich/Yandex.Praktikum_DA_projects/blob/main/01_Исследование%20музыки%20больших%20городов/README.md)| Создание дашборда для компании “Bolid.Team” | *Datalens* |
+| 1                | [Дашборда для компани Bolid.Team](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/01_Дашборд_Bolid_Team)| Создание дашборда для компании “Bolid.Team” | *Datalens* |
