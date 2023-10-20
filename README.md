@@ -6,3 +6,4 @@
 | Номер проекта    | Название проекта     | Описание | Используемые библиотеки/приложения |                                                  
 | :--------------- | :------------------- | :------- | :---------------------- |
 | 1                | [Дашборд Bolid.Team](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/01_Дашборд_Bolid_Team)| Создание дашборда для компании “Bolid.Team” | *Datalens* |
+| 2                | [Дашборд Bolid.Team](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/02_Дашборд_БФ_Арифметика_добра)| Создание дашборда для компании “Арифметика добра” | *Datalens* |
