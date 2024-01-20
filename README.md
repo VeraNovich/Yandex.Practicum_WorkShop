@@ -8,3 +8,4 @@
 | 1                | [Дашборд Bolid.Team](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/01_Дашборд_Bolid_Team)| Создание дашборда для компании “Bolid.Team” | *Datalens* |
 | 2                | [Дашборд Арифметика_добра](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/02_Дашборд_БФ_Арифметика_добра)| Создание дашборда для компании “Арифметика добра” | *Datalens* |
 | 3                | [Дашборд Медицинский_онкология_России](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/03_Дашбор_медицинский_дашборд_онкология_России)| Создание дашборда для проекта Онкология в России “Медицинский дашборд” | *Datalens* |
+| 6                | [Анализ рынка автомобилей Казахстана 2019 г.](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/06_Auto_Kazakhstan)| Анализ рынка автомобилей Казахстана и анализ позиций ДЦ Меркур Авто | *Python* |
