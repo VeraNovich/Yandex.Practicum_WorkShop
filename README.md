@@ -10,3 +10,5 @@
 | 3                | [Дашборд Медицинский_онкология_России](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/03_Дашбор_медицинский_дашборд_онкология_России)| Создание дашборда для проекта Онкология в России “Медицинский дашборд” | *Datalens* |
 | 5               | [Хакатон_Мастерская_Яндекс_Практикум_Иннополис](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/05_Хакатон_Иннополис)| Анализ деятельности телеграм канала Иннополис| *Python, Datalens* |
 | 6                | [Анализ рынка автомобилей Казахстана 2019 г.](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/06_Auto_Kazakhstan)| Анализ рынка автомобилей Казахстана и анализ позиций ДЦ Меркур Авто | *Python* |
+| 7                | [Хакатон_Мастерская_ЯндексПрактикум_КиноПоиск](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/07_hackathon_kinopoisk)| Анализ деятельности ТГК КиноПоиск| *Python* |
+
