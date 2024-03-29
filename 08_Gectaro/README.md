@@ -7,10 +7,10 @@
 
 ## Источник данных
 - исходные данные
-      - файл activities.csv;
-      - файл billing.csv;
-      - файл companies.csv;
-      - файл people.csv.
+  - файл activities.csv;
+  - файл billing.csv;
+  - файл companies.csv;
+  - файл people.csv.
 
 ## Этапы выполнения проекта
 * Загрузка и первичная обработка информации;
