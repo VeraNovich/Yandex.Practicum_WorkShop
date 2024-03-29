@@ -11,4 +11,4 @@
 | 5               | [Хакатон_Мастерская_Яндекс_Практикум_Иннополис](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/05_Хакатон_Иннополис)| Анализ деятельности телеграм канала Иннополис| *Python, Datalens* |
 | 6                | [Анализ рынка автомобилей Казахстана 2019 г.](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/06_Auto_Kazakhstan)| Анализ рынка автомобилей Казахстана и анализ позиций ДЦ Меркур Авто | *Python* |
 | 7                | [Хакатон_Мастерская_ЯндексПрактикум_КиноПоиск](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/07_hackathon_kinopoisk)| Анализ деятельности ТГК КиноПоиск| *Python* |
-
+| 8                | [Аналитика данных компании Gectaro](https://github.com/VeraNovich/Yandex.Praktikum_WorkShop/tree/main/08_Gectaro)| Анализ клиентской базы компании Gectaro| *Python, Яндекс_презентации* |
